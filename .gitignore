@@ -1,0 +1,14 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement (secrets — ne jamais committer)
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Système
+.DS_Store
+Thumbs.db
+.claude/
